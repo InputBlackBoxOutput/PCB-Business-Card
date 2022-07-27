@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24mm"
+   height="24mm"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="qr-code.svg"
+   inkscape:export-filename="qr-code.png"
+   inkscape:export-xdpi="900"
+   inkscape:export-ydpi="900"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.4105182"
+     inkscape:cx="53.044827"
+     inkscape:cy="53.968953"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-7"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-0"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="0.34231162"
+       x="0.3912133"
+       xlink:href="data:image/png;base64,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"
+       height="23.329702"
+       width="23.271231"
+       preserveAspectRatio="none"
+       id="image1247"
+       style="stroke-width:3.01776" />
+  </g>
+</svg>
