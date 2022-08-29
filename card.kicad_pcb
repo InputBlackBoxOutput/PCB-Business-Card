@@ -2099,7 +2099,7 @@
   (gr_text "Electronics Engineer" (at 125.5 89.25) (layer F.SilkS) (tstamp 62DD6A2D)
     (effects (font (size 2.7 2.7) (thickness 0.27)))
   )
-  (gr_text +91-9158797404 (at 123.25 103.75) (layer F.SilkS)
+  (gr_text "+1 737-298-7403" (at 124.5 103.75) (layer F.SilkS)
     (effects (font (size 2 2) (thickness 0.2)))
   )
   (gr_text rutuparn.pawar@outlook.com (at 131.5 98.25) (layer F.SilkS)
